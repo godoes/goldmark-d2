@@ -3,7 +3,7 @@ module github.com/FurqanSoftware/goldmark-d2
 go 1.19
 
 require (
-	cdr.dev/slog v1.4.2 // indirect; https://github.com/terrastruct/d2/issues/1524
+	cdr.dev/slog v1.4.2 // https://github.com/terrastruct/d2/issues/1524
 	github.com/google/go-cmp v0.6.0
 	github.com/yuin/goldmark v1.6.0
 	oss.terrastruct.com/d2 v0.6.3
@@ -27,7 +27,7 @@ require (
 	github.com/mazznoer/csscolorparser v0.1.3 // indirect
 	github.com/rivo/uniseg v0.4.4 // indirect
 	go.opencensus.io v0.24.0 // indirect
-	golang.org/x/crypto v0.16.0 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/exp v0.0.0-20231127185646-65229373498e // indirect
 	golang.org/x/image v0.14.0 // indirect
 	golang.org/x/net v0.19.0 // indirect
